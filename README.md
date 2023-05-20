@@ -1,6 +1,6 @@
 ### Olá, Mundo! Me chamo Guilherme Damazio.
 
-<!--
+
 
 
 - 🤠 Estou em busca da minha primeira vaga na área.
