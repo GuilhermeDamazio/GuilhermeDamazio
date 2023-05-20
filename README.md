@@ -9,4 +9,4 @@
 - ⚡ Fun fact: No meu tempo livre gosto de ler, ouvir músicas e andar de skate.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeDamazio)](https://github.com/GuilhermeDamazio/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
