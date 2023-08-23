@@ -4,7 +4,7 @@
 
 
 - 🤠 Estou em busca da minha primeira vaga na área.
-- 💻 Atualmente estou aprendendo C e Javascript.
+- 💻 Atualmente estou aprendendo C,Javascript e Python.
 - 😄 Pronomes: Ele/dele 
 - ⚡ Fun fact: No meu tempo livre gosto de ler, ouvir músicas e andar de skate.
 
