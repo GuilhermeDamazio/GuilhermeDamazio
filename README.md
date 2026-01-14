@@ -1,11 +1,11 @@
 ### Olá, Mundo! Me chamo Guilherme Damazio.
 
+Sou estudante de Análise e Desenvolvimento de Sistemas pelo IFSP e tenho grande interesse em atuar na área de Tecnologia e Dados. Ao longo da minha formação, desenvolvi projetos práticos de análise exploratória, testes ABC e análise de grandes bases públicas, utilizando Python, SQL, Power BI e Excel para gerar insights orientados a métricas e decisões de negócio.
 
 
-
-- 💻 Data Analytics
+- 💻 Data Analytics & BI
 - 😄 Pronomes: Ele/dele 
-- ⚡ Fun fact: No meu tempo livre gosto de ler, ouvir músicas e andar de skate.
+- ⚡ Fun fact: No meu tempo livre gosto de ler, ouvir músicas, correr e andar de skate.
 
 
 <div style="display: inline_block"><br>
